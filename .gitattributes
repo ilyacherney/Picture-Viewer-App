@@ -1,2 +1,2 @@
 *.html linguist-detectable=false
-*.csharp linguist-detectable=true
+*.cs linguist-language=C#
